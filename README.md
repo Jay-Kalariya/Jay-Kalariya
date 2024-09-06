@@ -7,7 +7,7 @@
 ## 🛠️ What I’m Excited About:
 - **✨ Designing & Developing**: From pixel-perfect interfaces to interactive applications.
 - **🚀 Modern Web Technologies**: React, Next.js, and more.
-- **🌐 User Experience**: Focusing on creating seamless and intuitive experiences.
+- **🌐 User Experience**: Focusing on creating seamless and interactive experiences.
 <br />
 
 ## 📫 How to Reach Me:
