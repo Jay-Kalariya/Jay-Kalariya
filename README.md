@@ -12,6 +12,7 @@
 
 ## 📫 How to Reach Me:
 <p><a href="https://www.linkedin.com/in/jay-kalariya-76b734229" target="blank"><img src="https://img.shields.io/badge/Jay%20%20Kalariya-fffff" alt="JayKalariya" /></a></p>
+<br />
 Feel free to drop me a line at: [jaykalariya1209@gmail.com](mailto:jaykalariya1209@gmail.com)
 
 ## 🌐 Socials:
