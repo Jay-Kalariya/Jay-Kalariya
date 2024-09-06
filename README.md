@@ -1,4 +1,4 @@
-<h1> 🌟 Hello World! I'm Jay Kalariya 👋 <p> <a href="https://www.linkedin.com/in/jay-kalariya-76b734229" target="blank"><img src="https://img.shields.io/badge/Jay%20%20Kalariya-fffff" alt="JayKalariya" /></a> </p></h1>
+<h1> 🌟 Hello World! I'm Jay Kalariya 👋  <a href="https://www.linkedin.com/in/jay-kalariya-76b734229" target="blank"><img src="https://img.shields.io/badge/Jay%20%20Kalariya-fffff" alt="JayKalariya" /></a> </h1>
 <h3>Frontend Web Developer | Transforming Ideas into Interactive Experiences | React & Next Enthusiast</h3>
 
 
