@@ -15,9 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jay-Kalariya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jay-Kalariya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Kalariya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<h3 align="center">*Together, let's build amazing things and make the web a better place! 🌍*</h3>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Jay-Kalariya&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+<h3>Together, let's build amazing things and make the web a better place! 🌍</h3>
 
 
 
