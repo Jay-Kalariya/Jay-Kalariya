@@ -9,6 +9,9 @@
 - **🌐 User Experience**: Focusing on creating seamless and intuitive experiences.
 <br />
 
+## 📫 How to Reach Me:
+Feel free to drop me a line at: [jaykalariya1209@gmail.com](mailto:jaykalariya1209@gmail.com)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Jay Kalariya](https://www.linkedin.com/in/jay-kalariya-76b734229)) 
 
