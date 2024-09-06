@@ -1,4 +1,4 @@
-<h1># 🌟 Hello World! I'm Jay Kalariya 👋</h1>
+<h1> 🌟 Hello World! I'm Jay Kalariya 👋</h1>
 <h3 align="center">Frontend Web Developer | Transforming Ideas into Interactive Experiences | React & Next Enthusiast</h3>
 
 ## 🛠️ What I’m Excited About:
